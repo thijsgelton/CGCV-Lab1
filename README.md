@@ -1,1 +1,1 @@
-# CGCV-Lab1
+# CGCV-Lab1: The FPS game
